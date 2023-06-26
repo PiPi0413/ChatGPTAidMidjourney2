@@ -22,8 +22,11 @@ import {
   MAX_SIDEBAR_WIDTH,
   MIN_SIDEBAR_WIDTH,
   NARROW_SIDEBAR_WIDTH,
-  Path, QQ_URL,
-  REPO_URL, WECHAT_URL,
+  Path,
+  QQ_URL,
+  REPO_URL,
+  SHANG_URL,
+  WECHAT_URL,
 } from "../constant";
 
 import { Link, useNavigate } from "react-router-dom";
@@ -191,6 +194,11 @@ export function SideBar(props: { className?: string }) {
               <IconButton icon={<QQIcon />} shadow />
             </a>
           </div>
+          {/*<div className={styles["sidebar-action"]}>*/}
+          {/*  <a href={SHANG_URL} target="_blank">*/}
+          {/*    <IconButton icon={<ShangIcon />} shadow />*/}
+          {/*  </a>*/}
+          {/*</div>*/}
         </div>
         <div>
           <IconButton

@@ -1,9 +1,9 @@
 export const OWNER = "Licoy";
 export const REPO = "ChatGPT-Midjourney";
 export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
-export const WECHAT_URL = `http://rwqt21hc6.bkt.gdipper.com/wechat.jpg`;
-export const QQ_URL = `http://rwqt21hc6.bkt.gdipper.com/qq.jpg`;
-export const SHANG_URL = `http://rwqt21hc6.bkt.gdipper.com/shang.jpg`;
+export const WECHAT_URL = `http://rwv6sylym.bkt.gdipper.com/wx.jpg`;
+export const QQ_URL = `http://rwv6sylym.bkt.gdipper.com/qq.jpg`;
+export const SHANG_URL = `http://rwv6sylym.bkt.gdipper.com/zs.jpg`;
 export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
 export const FETCH_COMMIT_URL = `https://api.github.com/repos/${OWNER}/${REPO}/commits?per_page=1`;
