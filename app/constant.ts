@@ -1,5 +1,5 @@
 export const OWNER = "Licoy";
-export const REPO = "ChatGPT-Midjourney";
+export const REPO = "零云智行-Midjourney";
 export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
 export const WECHAT_URL = `http://rwv6sylym.bkt.gdipper.com/wx.jpg`;
 export const QQ_URL = `http://rwv6sylym.bkt.gdipper.com/qq.jpg`;
